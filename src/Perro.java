@@ -31,7 +31,7 @@ public class Perro {
    }
    /**
     * Getter.
-    * @return altura
+    * @return altura.
     */
    public int getAltura() {
       return altura;
